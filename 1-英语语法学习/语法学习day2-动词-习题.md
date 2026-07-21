@@ -12,18 +12,18 @@
 
 把英文术语和中文意思配对。
 
-| 英文 | 中文选项 |
-|---|---|
-| 1. transitive verb | A. 助动词 |
-| 2. intransitive verb | B. 及物动词 |
-| 3. auxiliary verb | C. 不及物动词 |
-| 4. modal verb | D. 动名词 |
-| 5. infinitive | E. 情态动词 |
-| 6. gerund | F. 不定式 |
-| 7. present participle | G. 过去分词 |
-| 8. past participle | H. 现在分词 |
-| 9. subjunctive mood | I. 独立主格 |
-| 10. absolute construction | J. 虚拟语气 |
+| 英文                        | 中文选项     |
+| ------------------------- | -------- |
+| 1. transitive verb        | A. 助动词   |
+| 2. intransitive verb      | B. 及物动词  |
+| 3. auxiliary verb         | C. 不及物动词 |
+| 4. modal verb             | D. 动名词   |
+| 5. infinitive             | E. 情态动词  |
+| 6. gerund                 | F. 不定式   |
+| 7. present participle     | G. 过去分词  |
+| 8. past participle        | H. 现在分词  |
+| 9. subjunctive mood       | I. 独立主格  |
+| 10. absolute construction | J. 虚拟语气  |
 
 ### 2. 术语填空
 
