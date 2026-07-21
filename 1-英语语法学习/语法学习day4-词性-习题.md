@@ -642,7 +642,7 @@ day4 内容很多，这份题按词性分块：冠词、介词、名词、代词
 
 1. a small round wooden table
 2. a beautiful red silk dress
-3. an large old Chinese house / an old large Chinese house（常见更自然：a large old Chinese house）
+3. a large old Chinese house
 4. a new black German car
 5. a nice brown leather bag
 
