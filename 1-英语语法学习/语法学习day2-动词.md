@@ -98,12 +98,12 @@
 	
 ## 2.5 时态16种组合分类
 
-|          | 一般   | 进行   | 完成   | 完成进行 |
-|:-------- |:------ |:------ |:------ |:-------- |
-| 现在     | am/is/are/do/does | am/is/are doing | have/has done | have/has been doing |
-| 过去     | was/were/did | was/were doing | had done | had been doing |
-| 将来     | be going to do;<br>will/shall do; | will/shall be doing | will/shall have/has done | will/shall have been doing |
-| 过去将来 | was/were going to do;<br>would/should do; | would/should be doing | would/should have done | would/should have been doing |
+|      | 一般                                        | 进行                    | 完成                       | 完成进行                         |
+| :--- | :---------------------------------------- | :-------------------- | :----------------------- | :--------------------------- |
+| 现在   | am/is/are/do/does                         | am/is/are doing       | have/has done            | have/has been doing          |
+| 过去   | was/were/did                              | was/were doing        | had done                 | had been doing               |
+| 将来   | be going to do;<br>will/shall do;         | will/shall be doing   | will/shall have/has done | will/shall have been doing   |
+| 过去将来 | was/were going to do;<br>would/should do; | would/should be doing | would/should have done   | would/should have been doing |
 
 # 3 动词语气
 ## 3.1 陈述语气
