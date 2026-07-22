@@ -28,7 +28,7 @@
 ### 2. 术语填空
 
 用下面词语填空：`linking verb`、`causative/ˈkɑː.zə.t̬ɪv/ 起因的 verb`、
-verb`、`non-finite verb`、`predicate/ˈpred.ɪ.kət/ verb谓语`、`state verb`
+`finite verb`、`non-finite verb`、`predicate/ˈpred.ɪ.kət/ verb谓语`、`state verb`
 
 1. `look / sound / taste / feel / become` 常作 __________，后面接表语。
 2. `let / make / have / get` 表示“让某人做某事”时，是 __________。
