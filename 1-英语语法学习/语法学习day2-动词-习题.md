@@ -12,22 +12,22 @@
 
 把英文术语和中文意思配对。
 
-| 英文                        | 中文选项     |
-| ------------------------- | -------- |
-| 1. transitive verb        | A. 助动词   |
-| 2. intransitive verb      | B. 及物动词  |
-| 3. auxiliary verb         | C. 不及物动词 |
-| 4. modal verb             | D. 动名词   |
-| 5. infinitive             | E. 情态动词  |
-| 6. gerund                 | F. 不定式   |
-| 7. present participle     | G. 过去分词  |
-| 8. past participle        | H. 现在分词  |
-| 9. subjunctive mood       | I. 独立主格  |
-| 10. absolute construction | J. 虚拟语气  |
+| 英文                                 | 中文选项     |
+| ---------------------------------- | -------- |
+| 1. transitive verb                 | A. 助动词   |
+| 2. intransitive verb               | B. 及物动词  |
+| 3. auxiliary/ɔːɡˈzɪl.i.ə.ri/ verb  | C. 不及物动词 |
+| 4. modal/ˈmoʊ.dəl/ verb            | D. 动名词   |
+| 5. infinitive                      | E. 情态动词  |
+| 6. gerund /ˈdʒer.ənd/              | F. 不定式   |
+| 7. present participle              | G. 过去分词  |
+| 8. past participle                 | H. 现在分词  |
+| 9. subjunctive/səbˈdʒʌŋk.tɪv/ mood | I. 独立主格  |
+| 10. absolute construction          | J. 虚拟语气  |
 
 ### 2. 术语填空
 
-用下面词语填空：`linking verb`、`causative verb`、`finite verb`、`non-finite verb`、`predicate verb`、`state verb`
+用下面词语填空：`linking verb`、`causative/ˈkɑː.zə.t̬ɪv/ 起因的 verb`、`finite verb`、`non-finite verb`、`predicate verb`、`state verb`
 
 1. `look / sound / taste / feel / become` 常作 __________，后面接表语。
 2. `let / make / have / get` 表示“让某人做某事”时，是 __________。
