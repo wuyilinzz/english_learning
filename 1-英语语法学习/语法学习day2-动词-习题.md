@@ -144,7 +144,7 @@
 2. If she ______ more time, she would join us. (have)
 3. If you had called me, I ______ you. (help)
 4. If he ______ harder, he would have passed the exam. (study)
-5. If it should rain tomorrow, we ______ the picnic. (cancel)
+5. If it should rain tomorrow, we ______ the picnic 野餐. (cancel)
 6. If I were to win the lottery, I ______ a house. (buy)
 7. I wish I ______ taller. (be)
 8. I wish I ______ the truth earlier. (know)
