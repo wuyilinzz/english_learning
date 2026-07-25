@@ -10,18 +10,18 @@
 
 ### 1. 英汉配对
 
-| 英文 | 中文选项 |
-|---|---|
-| 1. clause | A. 宾语从句 |
-| 2. main clause | B. 从句 |
-| 3. subordinate clause | C. 主句 |
-| 4. noun clause | D. 从属从句 |
-| 5. subject clause | E. 名词性从句 |
-| 6. object clause | F. 主语从句 |
-| 7. predicative clause | G. 表语从句 |
-| 8. appositive clause | H. 同位语从句 |
-| 9. relative clause | I. 定语从句 |
-| 10. adverbial clause | J. 状语从句 |
+| 英文                    | 中文选项     |
+| --------------------- | -------- |
+| 1. clause             | A. 宾语从句  |
+| 2. main clause        | B. 从句    |
+| 3. subordinate clause | C. 主句    |
+| 4. noun clause        | D. 从属从句  |
+| 5. subject clause     | E. 名词性从句 |
+| 6. object clause      | F. 主语从句  |
+| 7. predicative clause | G. 表语从句  |
+| 8. appositive clause  | H. 同位语从句 |
+| 9. relative clause    | I. 定语从句  |
+| 10. adverbial clause  | J. 状语从句  |
 
 ### 2. 术语填空
 
