@@ -66,7 +66,7 @@
    A. cut B. to cut C. cutting
 4. This flower smells ______.  
    A. sweetly B. sweet C. sweetness
-5. He can ______ French.  
+5. He can ______ French.  情态动词(can) + 动词原型
    A. speaks B. to speak C. speak
 
 ---
