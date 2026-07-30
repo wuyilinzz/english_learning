@@ -10,23 +10,23 @@ day4 内容很多，这份题按词性分块：冠词、介词、名词、代词
 
 ### 1. 英汉配对
 
-| 英文 | 中文选项 |
-|---|---|
-| 1. article | A. 冠词 |
-| 2. preposition | B. 介词 |
-| 3. countable noun | C. 可数名词 |
+| 英文                  | 中文选项     |
+| ------------------- | -------- |
+| 1. article          | A. 冠词    |
+| 2. preposition      | B. 介词    |
+| 3. countable noun   | C. 可数名词  |
 | 4. uncountable noun | D. 不可数名词 |
-| 5. possessive case | E. 所有格 |
-| 6. pronoun | F. 代词 |
-| 7. cardinal number | G. 基数词 |
-| 8. ordinal number | H. 序数词 |
-| 9. adjective | I. 形容词 |
-| 10. adverb | J. 副词 |
-| 11. conjunction | K. 连词 |
-| 12. determiner | L. 限定词 |
-| 13. prefix | M. 前缀 |
-| 14. suffix | N. 后缀 |
-| 15. compound word | O. 合成词 |
+| 5. possessive case  | E. 所有格   |
+| 6. pronoun          | F. 代词    |
+| 7. cardinal number  | G. 基数词   |
+| 8. ordinal number   | H. 序数词   |
+| 9. adjective        | I. 形容词   |
+| 10. adverb          | J. 副词    |
+| 11. conjunction     | K. 连词    |
+| 12. determiner      | L. 限定词   |
+| 13. prefix          | M. 前缀    |
+| 14. suffix          | N. 后缀    |
+| 15. compound word   | O. 合成词   |
 
 ### 2. 词性识别
 
