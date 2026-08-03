@@ -1523,12 +1523,12 @@
 
 结构：**百位以上（基数词）+ 最后两位（序数词）**
 
-| 数字 | 序数词 | 规则 |
-|------|--------|------|
-| 100 | (one) hundredth | 整百 |
-| 101 | (one) hundred **and first** | 100 + 1st |
-| 200 | two hundredth | 整百 |
-| 1000 | one thousandth | 整千 |
+| 数字   | 序数词                         | 规则        |
+| ---- | --------------------------- | --------- |
+| 100  | (one) hundredth             | 整百        |
+| 101  | (one) hundred **and first** | 100 + 1st |
+| 200  | two hundredth               | 整百        |
+| 1000 | one thousandth              | 整千        |
 
 ### 序数词的用法
 
